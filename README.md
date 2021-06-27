@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Centinela-droid
+- 👋 Hi, I’m @Comandante
 - 👀 I’m interested in  la ciberseguridad y la inteligencia artificial.
 - 🌱 I’m currently learning  ciberseguridad y python
 - 💞️ I’m looking to collaborate  con gente  para aprender
